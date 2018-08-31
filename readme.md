@@ -5,3 +5,6 @@ This project demonstrates how the CSS clip-path property can be used to create a
 
 ## Live Demo
 A live demo is available on [CodePen](https://codepen.io/GeorgePark/full/ZoaRrV/).
+
+## License
+This project is licensed under the MIT License - see the [license.md](license.md) file for details.
